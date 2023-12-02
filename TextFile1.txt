@@ -1,0 +1,17 @@
+﻿srestockvalueupdate(s13, tata, svt1, "1");
+                srestockvalueupdate(s23, tata, svt2, "2");
+                srestockvalueupdate(s33, tata, svt3, "3");
+                srestockvalueupdate(s43, tata, svt4, "4");
+                srestockvalueupdate(s53, tata, svt5, "5");
+                srestockvalueupdate(s63, tata, svt6, "6");
+                srestockvalueupdate(s73, tata, svt7, "7");
+                srestockvalueupdate(s83, tata, svt8, "8");
+                tata += newf;
+                restockvalueupdate(s13, tata, sv1, svt1, "1");
+                restockvalueupdate(s23, tata, sv2, svt2, "2");
+                restockvalueupdate(s33, tata, sv3, svt3, "3");
+                restockvalueupdate(s43, tata, sv4, svt4, "4");
+                restockvalueupdate(s53, tata, sv5, svt5, "5");
+                restockvalueupdate(s63, tata, sv6, svt6, "6");
+                restockvalueupdate(s73, tata, sv7, svt7, "7");
+                restockvalueupdate(s83, tata, sv8, svt8, "8");
